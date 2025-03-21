@@ -1,5 +1,6 @@
-scripts
-packages
-starterfiles
-experimental_index.d.ts
-demo-app
+.github/
+scripts/
+.DS_Store
+Thumbs.db
+.env
+.env.*
