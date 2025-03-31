@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+/.firebase
+.firebaserc
+.npmrc
+.prettierignore
+.prettierrc
+.eslintignore
+.eslintrc.cjs
+firebase.json 
+package-lock.json
