@@ -1,4 +1,14 @@
+<h1> MAINTENANCE </h1>
+Ionic-svelte is going to be deprecated in favor of @ionic-svelte/core (which is not stable yet)
+and other repo's - see discussion at https://github.com/ionic-svelte/core/pull/111
+
+If you like this package, please place your star on https://github.com/ionic-svelte/core
+
+Meanwhile, you can use ionic-svelte as per README, until @ionic-svelte/core is stable
+
+
 <h1 align="center"> Ionic SvelteKit </h1> <br>
+
 <p align="center">
   <a href="https://ionic-svelte.firebaseapp.com">
     <img alt="IonicSvelte" title="IonicSvelteKit" src="https://github.com/Tommertom/svelte-ionic-app/raw/main/demo-app/static/assets/svelte-ionic-logo.png" width="350">
